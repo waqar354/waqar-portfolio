@@ -8462,8 +8462,8 @@ h1, h2, h3, h4, h5,
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 120px;
-  z-index: 2; }
+  bottom: 20px;
+ }
 
 .mouse-icon {
   width: 70px;
@@ -9672,3 +9672,4 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
